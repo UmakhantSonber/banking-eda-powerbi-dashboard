@@ -21,5 +21,9 @@
   - **Loan Analysis**: Showed Bank Loans, Credit Card Balances, and Business Lending.
   - **Deposit Analysis**: Displayed Savings, Checking, and Foreign Currency deposits.
   - **Summary Dashboard**: Highlighted Total Clients, Total Loans, Total Deposits, and Engagement.
-- Added slicers/filters for Gender, Bank Type, Nationality, and Income Band to make the dashboard dynamic and user-friendly.
-- Updated README
+- Added slicers/filters for Gender, Bank Type, Nationality, and Income Band to make the dashboard dynamic and user-friendly
+<img width="1166" height="658" alt="Screenshot 2025-07-25 114020" src="https://github.com/user-attachments/assets/82ed8079-8f5e-45f2-918e-8c327e787ab6" />
+ 
+<img width="1168" height="653" alt="Screenshot 2025-07-25 113950" src="https://github.com/user-attachments/assets/6750a07d-c98e-4dce-95c8-6425795e9cfc" />
+
+<img width="1165" height="654" alt="Screenshot 2025-07-25 114038" src="https://github.com/user-attachments/assets/8f6c935c-d586-4a12-b50f-5ee63e35040c" />
